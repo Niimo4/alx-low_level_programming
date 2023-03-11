@@ -1,4 +1,4 @@
-@@ -0,0 +1,19 @@
+
 #ifndef MAIN_H
 #define MAIN_H
 
